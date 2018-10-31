@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540875335 source:/home/lsy/blockcodes/OpenMVG/main.cpp
+	"openMVG/features/feature.hpp"
+	"openMVG/features/sift/SIFT_Anatomy_Image_Describer.hpp"
+	"openMVG/features/svg_features.hpp"
+	"openMVG/image/image_io.hpp"
+	"openMVG/image/image_concat.hpp"
+	"openMVG/matching/regions_matcher.hpp"
+	"openMVG/matching/svg_matches.hpp"
+	"third_party/stlplus3/filesystemSimplified/file_system.hpp"
+	<cstdlib>
+	<string>
+	<iostream>
+

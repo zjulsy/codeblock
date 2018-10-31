@@ -1,0 +1,7 @@
+//[306.163, 145.137] [277.414, 251.551] [241.031, 180.446] [343.389, 90.5142]
+// [241.878, 105.263] [145.993, 196.257] [206.5, 160.5] [182.248, 265.55]
+#include "opencv2/imgproc.hpp"
+#include "opencv2/imgcodecs.hpp"
+#include "opencv2/highgui.hpp"
+#include <iostream>
+#include

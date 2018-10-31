@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- SVG graphic -->
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
+width="60px" height="40px" preserveAspectRatio="xMinYMin meet" viewBox="0 0 60 40" version="1.1">
+<polyline points="0,20.0006 2,20.9522 4,21.8132 6,22.5923 8,23.2973 10,23.9352 12,24.5124 14,25.0346 16,25.5072 18,25.9348 20,26.3217 22,26.6718 24,26.9885 26,27.2752 28,27.5345 30,27.7692 32,27.9815 34,28.1737 36,28.3475 38,28.5048 40,28.6472 42,28.776 44,28.8925 46,28.9979 48,29.0933 50,29.1797 52,29.2578 54,29.3285 56,29.3924 58,29.4503 " stroke="blue" stroke-width="1" fill="none"/>
+<circle cx="5" cy="22.212" r="1" fill="red"/>
+<circle cx="10" cy="23.935" r="1" fill="red"/>
+<circle cx="15" cy="25.277" r="1" fill="red"/>
+<circle cx="20" cy="26.322" r="1" fill="red"/>
+<circle cx="25" cy="27.135" r="1" fill="red"/>
+<circle cx="30" cy="27.769" r="1" fill="red"/>
+<circle cx="35" cy="28.263" r="1" fill="red"/>
+<circle cx="40" cy="28.647" r="1" fill="red"/>
+<circle cx="45" cy="28.947" r="1" fill="red"/>
+<circle cx="50" cy="29.18" r="1" fill="red"/>
+</svg>

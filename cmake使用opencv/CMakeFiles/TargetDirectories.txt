@@ -1,0 +1,3 @@
+/home/lsy/blockcodes/CMakeFiles/rebuild_cache.dir
+/home/lsy/blockcodes/CMakeFiles/DisplayImage.dir
+/home/lsy/blockcodes/CMakeFiles/edit_cache.dir

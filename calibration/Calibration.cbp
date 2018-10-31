@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Caliberation" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MVS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MVS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="c1.jpg" />
+		<Unit filename="c3.jpg" />
+		<Unit filename="c5.jpg" />
+		<Unit filename="c6.jpg" />
+		<Unit filename="c7.jpg" />
+		<Unit filename="c8.jpg" />
+		<Unit filename="calibrate.cpp" />
+		<Unit filename="el.jpg" />
+		<Unit filename="er.jpg" />
+		<Unit filename="getPicsFrom2Cam.cpp" />
+		<Unit filename="getRelativePose.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="l1.jpg" />
+		<Unit filename="l10.jpg" />
+		<Unit filename="l11.jpg" />
+		<Unit filename="l12.jpg" />
+		<Unit filename="l13.jpg" />
+		<Unit filename="l14.jpg" />
+		<Unit filename="l2.jpg" />
+		<Unit filename="l3.jpg" />
+		<Unit filename="l4.jpg" />
+		<Unit filename="l5.jpg" />
+		<Unit filename="l6.jpg" />
+		<Unit filename="l7.jpg" />
+		<Unit filename="l8.jpg" />
+		<Unit filename="l9.jpg" />
+		<Unit filename="out_camera_data.xml" />
+		<Unit filename="out_camera_data_l.xml" />
+		<Unit filename="out_camera_data_r.xml" />
+		<Unit filename="pics.xml" />
+		<Unit filename="pics_l.xml" />
+		<Unit filename="pics_r.xml" />
+		<Unit filename="r1.jpg" />
+		<Unit filename="r10.jpg" />
+		<Unit filename="r11.jpg" />
+		<Unit filename="r12.jpg" />
+		<Unit filename="r13.jpg" />
+		<Unit filename="r14.jpg" />
+		<Unit filename="r2.jpg" />
+		<Unit filename="r3.jpg" />
+		<Unit filename="r4.jpg" />
+		<Unit filename="r5.jpg" />
+		<Unit filename="r6.jpg" />
+		<Unit filename="r7.jpg" />
+		<Unit filename="r8.jpg" />
+		<Unit filename="r9.jpg" />
+		<Unit filename="readCameraData.cpp" />
+		<Unit filename="setting.xml" />
+		<Unit filename="stereoCalib.cpp" />
+		<Unit filename="stereoCalib.xml" />
+		<Unit filename="test.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
